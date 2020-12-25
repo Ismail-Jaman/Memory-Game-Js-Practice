@@ -1,0 +1,7 @@
+.tiles{
+    width: 18%;
+    height: 200px;
+    margin: 5px 2px;
+    float: left;
+    background-color: #30b803;
+}
